@@ -1,0 +1,24 @@
+{
+  "name": "ScanQR-WhatsApp",
+  "version": "1.0.0",
+  "description": "A simple script to get the session for your WhatsApp bot.",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrzzLpzz/ScanQR-WhatsApp/issues"
+  },
+  "homepage": "https://github.com/KrzzLpzz/ScanQR-WhatsApp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrzzLpzz/ScanQR-WhatsApp.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1",
+    "chalk": "^4.1.1"
+  }
+}
